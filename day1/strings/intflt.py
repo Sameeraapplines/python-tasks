@@ -1,0 +1,5 @@
+a= input("enter a number\n")
+b=float(a)
+c=int(float(a))
+print(b)
+print(c)
